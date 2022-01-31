@@ -99,8 +99,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #header .profile .social-links a:hover {
-  background: #149ddd;
-  color: #fff;
+  background: #34f1e8;
+  color: rgb(14, 13, 13);
   text-decoration: none;
 }
 
@@ -773,6 +773,7 @@ section {
   background: #149ddd;
   color: #fff;
 }
+
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #149ddd;
   color: #fff;
