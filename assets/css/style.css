@@ -436,7 +436,7 @@ margin-bottom: 80px;
 
 #about .about-descr .p-heading {
   font-family: 'Times New Roman', Times, serif;
-  color: #5f4d4d;
+  color: hsl(0, 10%, 34%);
   font-size: 20px;
   text-align: left;
   text-align: justify;
@@ -447,14 +447,21 @@ margin-bottom: 80px;
   font-size: 18px;
 }
 #about .about-descr .separator {
-  max-width: 80%;
+  
   color: rgb(92, 75, 75);
   font-family:'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 0;
   text-align: left;
+  text-align: justify;
 }
-
+#about .sep{
+  color: rgb(92, 75, 75);
+  text-align: right;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  
+}
 
 
 #portfolio {
